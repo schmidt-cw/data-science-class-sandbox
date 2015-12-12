@@ -1,6 +1,6 @@
-# data-toolbox-class
-Coursera Data Scientist's Toolbox class placeholder
+# data-science-class-sandbox
+Coursera Data Scientist's classes sandbox
 
 DO NOT USE. See different repo.
 
-Contains code developed as part of class requirements.
+Contains exploratory code developed as part of class requirements.
